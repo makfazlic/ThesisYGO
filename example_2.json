@@ -1,0 +1,2714 @@
+[
+  {
+    "action": "Activate Card Effect (MST targets set Mirror Force)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 9,
+      "me_hand": [
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "MAIN_PHASE_1",
+      "op_life": 6200,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Summon Monster (Normal Summon Gale)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 9,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-3": {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "MAIN_PHASE_1",
+      "op_life": 6200,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Activate Monster Effect (Gale halves Judgment Dragon ATK/DEF until end phase)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 9,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-3": {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "MAIN_PHASE_1",
+      "op_life": 6200,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Special Summon (Synchro Summon Blackwing Armed Wing)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "MAIN_PHASE_1",
+      "op_life": 6200,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Change Phase (to Battle Phase)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "BATTLE_PHASE",
+      "op_life": 6200,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Declare Attack (Armed Wing attacks halved JD in DEF; JD destroyed; 1000 damage)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "DEF",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "BATTLE_PHASE",
+      "op_life": 5200,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": null,
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Declare Attack (Shura direct attack; 1800 damage)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "BATTLE_PHASE",
+      "op_life": 3400,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": null,
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Set Spell/Trap (Set Icarus Attack)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": {
+          "name": "Icarus Attack",
+          "object_id": 113,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "MAIN_PHASE_2",
+      "op_life": 3400,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": null,
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Change Phase (End Phase; pass turn)",
+    "state": {
+      "turn": 5,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": {
+          "name": "Icarus Attack",
+          "object_id": 113,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "END_PHASE",
+      "op_life": 3400,
+      "op_cards_in_deck": 19,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": null,
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "BATTLE_PHASE"
+    }
+  },
+  {
+    "action": "Draw Card (Opponent draws Garoth)",
+    "state": {
+      "turn": 6,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": {
+          "name": "Icarus Attack",
+          "object_id": 113,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "NONE",
+      "op_life": 3400,
+      "op_cards_in_deck": 18,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Garoth, Lightsworn Warrior",
+          "object_id": 212,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": null,
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "DRAW_PHASE"
+    }
+  },
+  {
+    "action": "Activate Spell (Solar Recharge: discard Garoth; draw 2; send 2 from deck to GY)",
+    "state": {
+      "turn": 6,
+      "me_life": 5400,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": {
+          "name": "Icarus Attack",
+          "object_id": 113,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "NONE",
+      "op_life": 3400,
+      "op_cards_in_deck": 14,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 213,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 214,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Garoth, Lightsworn Warrior",
+          "object_id": 212,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 215,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Jain, Lightsworn Paladin",
+          "object_id": 216,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": null,
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "MAIN_PHASE_1"
+    }
+  },
+  {
+    "action": "Activate Trap (Royal Oppression: pay 800 to negate Wulf Special Summon)",
+    "state": {
+      "turn": 6,
+      "me_life": 4600,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": {
+          "name": "Icarus Attack",
+          "object_id": 113,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "NONE",
+      "op_life": 3400,
+      "op_cards_in_deck": 14,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 213,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 214,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Garoth, Lightsworn Warrior",
+          "object_id": 212,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 215,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Jain, Lightsworn Paladin",
+          "object_id": 216,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": null,
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "MAIN_PHASE_1"
+    }
+  },
+  {
+    "action": "Summon Monster (Opponent Normal Summons Lumina)",
+    "state": {
+      "turn": 6,
+      "me_life": 4600,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": {
+          "name": "Icarus Attack",
+          "object_id": 113,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "NONE",
+      "op_life": 3400,
+      "op_cards_in_deck": 14,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 213,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Garoth, Lightsworn Warrior",
+          "object_id": 212,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 215,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Jain, Lightsworn Paladin",
+          "object_id": 216,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 214,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "MAIN_PHASE_1"
+    }
+  },
+  {
+    "action": "Chain Interaction (Lumina targets Ryko; Royal Oppression pays 800 to negate the Special Summon)",
+    "state": {
+      "turn": 6,
+      "me_life": 3800,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": {
+          "name": "Icarus Attack",
+          "object_id": 113,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "NONE",
+      "op_life": 3400,
+      "op_cards_in_deck": 14,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 213,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Garoth, Lightsworn Warrior",
+          "object_id": 212,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 215,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Jain, Lightsworn Paladin",
+          "object_id": 216,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 214,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": null,
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "MAIN_PHASE_1"
+    }
+  },
+  {
+    "action": "Set Spell/Trap & End Phase (Opponent sets Beckoning Light; Lumina mills 3 cards)",
+    "state": {
+      "turn": 6,
+      "me_life": 3800,
+      "me_cards_in_deck": 23,
+      "me_cards_in_extra_deck": 8,
+      "me_hand": [],
+      "me_GY": [
+        {
+          "name": "Blackwing - Sirocco the Dawn",
+          "object_id": 103,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Allure of Darkness",
+          "object_id": 104,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mystical Space Typhoon",
+          "object_id": 101,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Bora the Spear",
+          "object_id": 106,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Blackwing - Gale the Whirlwind",
+          "object_id": 102,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "me_banished": [
+        {
+          "name": "Destiny Hero - Malicious",
+          "object_id": 105,
+          "battle_position": null,
+          "face_up": true
+        }
+      ],
+      "me_banish": [
+        {
+          "name": "Dark Armed Dragon",
+          "object_id": 110,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Plaguespreader Zombie",
+          "object_id": 111,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "me_field": {
+        "M-1": {
+          "name": "Blackwing Armed Wing",
+          "object_id": 112,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": {
+          "name": "Blackwing - Shura the Blue Flame",
+          "object_id": 107,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Bottomless Trap Hole",
+          "object_id": 108,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": {
+          "name": "Royal Oppression",
+          "object_id": 109,
+          "battle_position": null,
+          "face_up": true
+        },
+        "S-3": {
+          "name": "Icarus Attack",
+          "object_id": 113,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-4": null,
+        "S-5": null
+      },
+      "me_phase": "NONE",
+      "op_life": 3400,
+      "op_cards_in_deck": 11,
+      "op_cards_in_extra_deck": 11,
+      "op_hand": [
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 213,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_GY": [
+        {
+          "name": "Ryko, Lightsworn Hunter",
+          "object_id": 203,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 204,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Mirror Force",
+          "object_id": 206,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Judgment Dragon",
+          "object_id": 205,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Garoth, Lightsworn Warrior",
+          "object_id": 212,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Solar Recharge",
+          "object_id": 202,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 215,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Jain, Lightsworn Paladin",
+          "object_id": 216,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Honest",
+          "object_id": 201,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Celestia, Lightsworn Angel",
+          "object_id": 218,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Charge of the Light Brigade",
+          "object_id": 219,
+          "battle_position": null,
+          "face_up": null
+        },
+        {
+          "name": "Wulf, Lightsworn Beast",
+          "object_id": 220,
+          "battle_position": null,
+          "face_up": null
+        }
+      ],
+      "op_banished": [],
+      "op_banish": [
+        {
+          "name": "Necro Gardna",
+          "object_id": 210,
+          "battle_position": null,
+          "face_up": true
+        },
+        {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 211,
+          "battle_position": null,
+          "face_up": false
+        }
+      ],
+      "op_field": {
+        "M-1": {
+          "name": "Lumina, Lightsworn Summoner",
+          "object_id": 214,
+          "battle_position": "ATK",
+          "face_up": true
+        },
+        "M-2": null,
+        "M-3": null,
+        "M-4": null,
+        "M-5": null,
+        "S-1": {
+          "name": "Beckoning Light",
+          "object_id": 217,
+          "battle_position": null,
+          "face_up": false
+        },
+        "S-2": null,
+        "S-3": null,
+        "S-4": null,
+        "S-5": null
+      },
+      "op_phase": "END_PHASE"
+    }
+  }
+]
