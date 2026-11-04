@@ -1,0 +1,246 @@
+[
+  "Miyamoto Takezo, Admit defeat (IGNORED)",
+  {
+    "turn": 7,
+    "me_hand": [
+      {
+        "uid": "card_2",
+        "name": "Royal Oppression",
+        "object_id": 39,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": null,
+        "is_token": false
+      }
+    ],
+    "me_GY": [
+      {
+        "uid": "card_1",
+        "name": "Allure of Darkness",
+        "object_id": 19,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_3",
+        "name": "Icarus Attack",
+        "object_id": 30,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_11",
+        "name": "Blackwing - Shura the Blue Flame",
+        "object_id": 11,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_12",
+        "name": "Blackwing - Blizzard the Far North",
+        "object_id": 2,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_13",
+        "name": "Dark Armed Dragon",
+        "object_id": 16,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_15",
+        "name": "Blackwing - Vayu the Emblem of Honor",
+        "object_id": 17,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_16",
+        "name": "Trap Dustshoot",
+        "object_id": 27,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_17",
+        "name": "Magical Android",
+        "object_id": 41,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      }
+    ],
+    "me_banish": [
+      {
+        "uid": "card_4",
+        "name": "Blackwing - Sirocco the Dawn",
+        "object_id": 13,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_5",
+        "name": "Blackwing - Kalut the Moon Shadow",
+        "object_id": 6,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      }
+    ],
+    "me_field": {
+      "M-1": null,
+      "M-2": null,
+      "M-3": {
+        "uid": "card_20",
+        "name": "Goyo Guardian",
+        "object_id": 45,
+        "owner": "p1",
+        "battle_position": "ATK",
+        "face_up": true,
+        "is_token": false
+      },
+      "M-4": {
+        "uid": "card_22",
+        "name": "Blackwing - Kalut the Moon Shadow",
+        "object_id": 8,
+        "owner": "p1",
+        "battle_position": "ATK",
+        "face_up": true,
+        "is_token": false
+      },
+      "M-5": null,
+      "S-1": null,
+      "S-2": null,
+      "S-3": {
+        "uid": "card_19",
+        "name": "Royal Oppression",
+        "object_id": 38,
+        "owner": "p1",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      "S-4": null,
+      "S-5": null
+    },
+    "me_field_spell": null,
+    "me_cards_in_deck": 28,
+    "me_cards_in_extra_deck": 13,
+    "me_life": 7100,
+    "me_phase": "BP",
+    "op_hand": [
+      {
+        "uid": "card_21",
+        "name": "Blackwing - Gale the Whirlwind",
+        "object_id": 7,
+        "owner": "p2",
+        "battle_position": null,
+        "face_up": null,
+        "is_token": false
+      },
+      {
+        "uid": "card_23",
+        "name": "Blackwing - Bora the Spear",
+        "object_id": 5,
+        "owner": "p2",
+        "battle_position": null,
+        "face_up": null,
+        "is_token": false
+      }
+    ],
+    "op_GY": [
+      {
+        "uid": "card_6",
+        "name": "Solemn Judgment",
+        "object_id": 39,
+        "owner": "p2",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_7",
+        "name": "Icarus Attack",
+        "object_id": 34,
+        "owner": "p2",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_8",
+        "name": "Blackwing - Bora the Spear",
+        "object_id": 6,
+        "owner": "p2",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_10",
+        "name": "Dark Armed Dragon",
+        "object_id": 19,
+        "owner": "p2",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_14",
+        "name": "Blackwing - Shura the Blue Flame",
+        "object_id": 12,
+        "owner": "p2",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      },
+      {
+        "uid": "card_18",
+        "name": "Blackwing - Kalut the Moon Shadow",
+        "object_id": 8,
+        "owner": "p2",
+        "battle_position": null,
+        "face_up": true,
+        "is_token": false
+      }
+    ],
+    "op_banish": [],
+    "op_field": {
+      "M-1": null,
+      "M-2": null,
+      "M-3": null,
+      "M-4": null,
+      "M-5": null,
+      "S-1": null,
+      "S-2": null,
+      "S-3": null,
+      "S-4": null,
+      "S-5": null
+    },
+    "op_field_spell": null,
+    "op_cards_in_deck": 32,
+    "op_cards_in_extra_deck": 15,
+    "op_life": 4200,
+    "op_phase": "Opponent's turn"
+  }
+]
